@@ -1,0 +1,122 @@
+.body {
+  width: content;
+  background: linear-gradient(135deg, #62daef, #e677c7c4);
+
+}
+
+.biografia {
+  color: rgb(19, 19, 19);
+  font-family: helvetica;
+  background: linear-gradient(135deg, #e695f8, #8d9cedc4);
+  padding: 25px;
+  line-height: 29px;
+  margin-left: 300px;
+}
+
+
+.imgrendonda {
+  width: 280px;
+  height: 280px;
+  border-radius: 150px;
+  letter-spacing: 5px;
+  padding: 1%;
+  font-style: oblique;
+
+}
+
+.titulo {
+  font-size: 40px;
+  color: black;
+  padding: 10px;
+  background: linear-gradient(135deg, #8d9cedc4, #e695f8);
+  text-align: center;
+  font-style: oblique;
+}
+
+.sub1 {
+  color: black;
+  font-style: oblique;
+  letter-spacing: 5px;
+  text-align: center;
+}
+
+
+.sub2 {
+  color: black;
+  text-align: center;
+  font-style: oblique;
+  font-size: 50px;
+}
+
+.imagen2 {
+  width: 250px;
+  line-height: 18px;
+  margin-right: 420px;
+
+}
+
+.perfil {
+  color: rgb(19, 19, 19);
+  font-family: helvetica;
+  background: linear-gradient(135deg, #8d9cedc4, #e695f8);
+  padding: 11px;
+  line-height: 18px;
+  margin-right: 420px;
+}
+
+.sub3 {
+  color: black;
+  font-style: oblique;
+  letter-spacing: 5px;
+  text-align: right;
+
+}
+
+.Habi {
+  color: rgb(19, 19, 19);
+  font-family: helvetica;
+  background: linear-gradient(135deg, #e695f8, #8d9cedc4);
+  padding: 5px;
+  text-align: justify;
+  line-height: 30px;
+  margin-right: 120px;
+  margin-left: 120px;
+}
+
+.sub4 {
+  color: black;
+  font-family: helvetica;
+  letter-spacing: 10px;
+  font-size: 25px;
+}
+
+.hobi {
+  color: rgb(19, 19, 19);
+  font-family: helvetica;
+  background: linear-gradient(135deg, #8d9cedc4, #e695f8);
+  padding: 5px;
+  line-height: 18px;
+  margin-right: 450px;
+  text-align:center;
+
+
+}
+
+.correo {
+  color: rgb(19, 19, 19);
+  font-family: helvetica;
+  background: linear-gradient(135deg, #e695f8, #8d9cedc4);
+  padding: 5px;
+  text-align:center;
+  line-height: 30px;
+  margin-right: 120px;
+  margin-left: 120px;
+}
+
+
+.derecha {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20;
+}
